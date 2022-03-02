@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+
+html,
+body {
+  font-family: "VT323", monospace;
+  background-image: url("data/bg.png");
+  background-position: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+#mainContainer {
+  margin: auto;
+  width: 50%;
+  background-color: #eb4861;
+  border: thick solid black;
+  border-radius: 25px;
+  height: 500px;
+  padding: 10px;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.input-group {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.form-control {
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  margin-right: 10px;
+  border: medium solid black;
+}
+
+.btn {
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  border: medium solid black;
+  height: 46px;
+}
+
+#imgContainer {
+  border: solid rgb(0, 0, 0) medium;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  border-radius: 25px;
+  background-color: white;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+  margin-left: 75px;
+  position: flex;
+  float: left;
+}
+
+.images {
+  margin: auto;
+  padding-top: 25px;
+}
+
+.genericCard {
+  border: solid medium black;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  border-radius: 25px;
+  background-color: white;
+  float: right;
+  width: 400px;
+  margin: 20px;
+  display: flex;
+}
+
+.topContainer {
+  overflow: hidden;
+}
+
+#nameContainer {
+  margin-top: 30px;
+}
+
+.label {
+  text-align: center;
+  float: left;
+  width: 33.33%;
+  border-right: solid medium black;
+  margin-left: 10px;
+}
+
+.value {
+  width: 100%;
+}
+
+#bottomContainer {
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+
+.bottomGenericCard {
+  border: solid medium black;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  border-radius: 25px;
+  background-color: white;
+  float: left;
+  width: 100%;
+  margin: 15px auto;
+}
