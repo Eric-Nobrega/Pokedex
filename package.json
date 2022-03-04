@@ -1,9 +1,4 @@
 {
-  "devDependencies": {
-    "gh-pages": "^3.2.3",
-    "pixel-borders": "^1.1.4"
-  },
-  "homepage": "https://Eric-Nobrega.github.io/pokedex",
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
