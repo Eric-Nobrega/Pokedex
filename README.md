@@ -1,4 +1,5 @@
 # ReactJS Pokemon Pokedex
+#### Deployed with Netlify at https://ericreactpokedex.netlify.app/
 
 #### A Pokemon Pokedex recreation using ReactJS & Bootstrap
 
@@ -7,8 +8,6 @@
 > - ReactJS useState
 > - ReactJS useEffect
 > - ReactJS Props
-
-#### Deployed with Netlify at ericreactpokedex.netlify.app/
 
 #### Application Image
 ![image](https://user-images.githubusercontent.com/91664359/156673702-50238a94-7dff-4609-aaca-6d6dec592218.png)
